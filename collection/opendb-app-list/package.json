@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-app-list",
+  "version": "0.0.1",
+  "description": "opendb-app-list 应用列表",
+  "keywords": ["应用列表"],
+  "opendb": {
+    "title": "应用列表",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

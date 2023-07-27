@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-cms-articles",
+  "version": "0.0.1",
+  "description": "uni-cms-articles",
+  "keywords": ["文章&评论", "文章表", "uni-CMS", "CMS"],
+  "opendb": {
+    "title": "文章表",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

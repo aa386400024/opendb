@@ -1,0 +1,86 @@
+{
+  "schema": {
+    "bsonType": "object",
+    "required": [],
+    "permission": {
+      "read": "doc.visible == true",
+      "create": false,
+      "update": false,
+      "delete": false
+    },
+    "properties": {
+      "_id": {
+        "description": "ID，系统自动生成"
+      },
+      "visible": {
+        "bsonType": "bool",
+        "description": "为true代表前端clientDB可直接查询 false则clientDB不可以查询"
+      },
+      "location": {
+        "bsonType": "object",
+        "title": "地理位置",
+        "description": "地理位置（包含经纬度）"
+      },
+      "title": {
+        "bsonType": "string",
+        "title": "名称",
+        "description": "名称"
+      },
+      "tel": {
+        "bsonType": "string",
+        "title": "电话",
+        "description": "电话"
+      },
+      "icon": {
+        "bsonType": "string",
+        "title": "图标",
+        "description": "图标"
+      },
+      "address": {
+        "bsonType": "string",
+        "title": "地址",
+        "description": "地址"
+      },
+      "province": {
+        "bsonType": "string",
+        "title": "省",
+        "description": "省"
+      },
+      "city": {
+        "bsonType": "string",
+        "title": "市",
+        "description": "市"
+      },
+      "district": {
+        "bsonType": "string",
+        "title": "区/县",
+        "description": "区/县"
+      },
+      "create_date": {
+        "bsonType": "timestamp",
+        "description": "创建时间",
+        "forceDefaultValue": {
+          "$env": "now"
+        }
+      }
+    }
+  },
+  "index": [
+    {
+      "IndexName": "location",
+      "MgoKeySchema": { "MgoIndexKeys": [{ "Name": "location", "Direction": "2dsphere" }], "MgoIsUnique": false }
+    },
+    {
+      "IndexName": "visible",
+      "MgoKeySchema": {"MgoIndexKeys": [{"Name": "visible","Direction": "1"}],"MgoIsUnique": false}
+    },
+    {
+      "IndexName": "province-city-district",
+      "MgoKeySchema": {"MgoIndexKeys": [{"Name": "province","Direction": "1"},{"Name": "city","Direction": "1"},{"Name": "district","Direction": "1"}],"MgoIsUnique": false}
+    },
+    {
+      "IndexName": "create_date",
+      "MgoKeySchema": {"MgoIndexKeys": [{"Name": "create_date","Direction": "1"}],"MgoIsUnique": false}
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-app-client-key",
+  "version": "0.0.1",
+  "description": "opendb-app-client-key",
+  "keywords": ["App平台安全网络密钥对"],
+  "opendb": {
+    "title": "App平台安全网络密钥对",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

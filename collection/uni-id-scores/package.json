@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-scores",
+  "version": "0.0.1",
+  "description": "uni-id-scores",
+  "keywords": ["积分", "用户积分", "scores"],
+  "opendb": {
+    "title": "用户积分",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

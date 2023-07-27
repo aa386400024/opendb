@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-followers",
+  "version": "0.0.1",
+  "description": "uni-id-followers",
+  "keywords": ["关注用户", "followers"],
+  "opendb": {
+    "title": "关注用户",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

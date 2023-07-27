@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-user-change-log",
+  "version": "0.0.1",
+  "description": "用户信息变更记录表",
+  "keywords": ["修改手机", "修改邮箱"],
+  "opendb": {
+    "title": "用户信息变更记录表",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

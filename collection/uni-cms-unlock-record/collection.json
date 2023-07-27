@@ -1,0 +1,91 @@
+{
+  "schema": {
+    "bsonType": "object",
+    "required": [
+      "user_id",
+      "trans_id",
+      "content_id"
+    ],
+    "permission": {
+      "read": true,
+      "create": false,
+      "update": false,
+      "delete": false
+    },
+    "properties": {
+      "_id": {
+        "description": "存储文档 ID（用户 ID），系统自动生成"
+      },
+      "unique_id": {
+        "bsonType": "string",
+        "description": "用于标识观看广告的唯一标识"
+      },
+      "unique_type": {
+        "bsonType": "string",
+        "description": "观看广告的唯一标识类型；user 用户；device 设备"
+      },
+      "trans_id": {
+        "bsonType": "string",
+        "title": "交易ID",
+        "description": "广告回调传回的交易ID",
+        "label": "内容id",
+        "trim": "both"
+      },
+      "content_id": {
+        "bsonType": "string",
+        "title": "内容id",
+        "description": "内容(文章、图片、视频)ID",
+        "label": "内容id",
+        "trim": "both"
+      },
+      "content_type": {
+        "bsonType": "string",
+        "title": "内容类型",
+        "description": "内容类型，article 文章 image 图片 video 视频",
+        "label": "内容id",
+        "trim": "both",
+        "enum": [
+          "article",
+          "image",
+          "video"
+        ]
+      },
+      "create_date": {
+        "bsonType": "timestamp",
+        "title": "创建时间",
+        "description": "创建时间",
+        "defaultValue": {
+          "$env": "now"
+        }
+      },
+      "adpid": {
+        "bsonType": "string",
+        "description": "广告id"
+      },
+      "provider": {
+        "bsonType": "string",
+        "description": "广告供应商"
+      },
+      "platform": {
+        "bsonType": "string",
+        "description": "客户端平台"
+      }
+    }
+  },
+  "index": [{
+    "IndexName": "unique_article_trans_",
+    "MgoKeySchema": {
+      "MgoIndexKeys": [{
+        "Name": "unique_id",
+        "Direction": "1"
+      }, {
+        "Name": "article_id",
+        "Direction": "1"
+      }, {
+        "Name": "trans_id",
+        "Direction": "1"
+      }],
+      "MgoIsUnique": false
+    }
+  }]
+}

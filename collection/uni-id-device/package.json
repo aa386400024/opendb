@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-device",
+  "version": "0.0.1",
+  "description": "uni-id-device",
+  "keywords": ["设备信息"],
+  "opendb": {
+    "title": "设备信息",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

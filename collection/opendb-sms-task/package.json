@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-sms-task",
+  "version": "0.0.1",
+  "description": "opendb-sms-task",
+  "keywords": ["短信任务"],
+  "opendb": {
+    "title": "短信任务",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

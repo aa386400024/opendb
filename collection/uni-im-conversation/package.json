@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-im-conversation",
+  "version": "0.0.2",
+  "description": "uni-im-conversation",
+  "keywords": ["uni-im","即时通讯"],
+  "opendb": {
+    "title": "即时通讯会话",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud_JSON",
+        "email": "",
+        "homepage": ""
+      }
+    ]
+  }
+}

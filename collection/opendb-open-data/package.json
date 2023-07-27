@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-open-data",
+  "version": "0.0.1",
+  "description": "opendb-open-data",
+  "keywords": ["三方平台凭据"],
+  "opendb": {
+    "title": "三方平台凭据",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

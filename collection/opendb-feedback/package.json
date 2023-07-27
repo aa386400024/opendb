@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-feedback",
+  "version": "0.0.1",
+  "description": "用户留言反馈",
+  "keywords": ["留言","反馈"],
+  "opendb": {
+    "title": "留言反馈",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "BaseCloud",
+        "email": "11162762894@qq.com",
+        "homepage": "https://ext.dcloud.net.cn/plugin?id=2772"
+      }
+    ]
+  }
+}

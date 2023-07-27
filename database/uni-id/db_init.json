@@ -1,0 +1,16 @@
+{
+  "uni-id-users": {},
+  "uni-id-roles": {},
+  "uni-id-permissions": {},
+  "uni-id-address": {},
+  "uni-id-device": {},
+  "uni-id-log": {},
+  "uni-id-tag": {},
+  "uni-id-base-order":{},
+  "uni-id-scores": {},
+  "uni-id-task": {},
+  "uni-id-task-log": {},
+  "uni-id-followers": {},
+  "opendb-verify-codes": {},
+  "opendb-department":{}
+}

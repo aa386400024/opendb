@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-mall-comments",
+  "version": "0.0.1",
+  "description": "opendb-mall-comments",
+  "keywords": ["电商系统", "商品评论表"],
+  "opendb": {
+    "title": "商品评论",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

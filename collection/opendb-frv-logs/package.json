@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-frv-logs",
+  "version": "0.0.1",
+  "description": "opendb-frv-logs",
+  "keywords": ["实人认证日志"],
+  "opendb": {
+    "title": "实人认证日志",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

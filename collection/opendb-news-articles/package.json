@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-news-articles",
+  "version": "0.0.1",
+  "description": "opendb-news-articles",
+  "keywords": ["文章&评论", "文章表"],
+  "opendb": {
+    "title": "文章",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

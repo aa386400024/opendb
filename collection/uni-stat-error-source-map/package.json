@@ -1,0 +1,13 @@
+{
+  "name": "@opendb/uni-stat-error-source-map",
+  "version": "0.0.1",
+  "description": "uni-stat-error-source-map",
+  "keywords": ["存储sourceMap文件资源地址"],
+  "opendb": {
+    "title": "存储sourceMap文件资源地址",
+    "type": "collection",
+    "contributors": [
+      { "name": "DCloud", "email": "", "homepage": "https://gitee.com/dcloud/opendb" }
+    ]
+  }
+}

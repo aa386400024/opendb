@@ -1,0 +1,10 @@
+{
+  "name": "@opendb/opendb-admin",
+  "version": "0.0.1",
+  "description": "opendb-admin",
+  "keywords": ["opendb-admin", "admin"],
+  "opendb": {
+    "type": "database",
+    "title": "opendb-admin"
+  }
+}

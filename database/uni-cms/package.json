@@ -1,0 +1,10 @@
+{
+  "name": "@opendb/uni-cms",
+  "version": "0.0.1",
+  "description": "uni-cms",
+  "keywords": ["cms"],
+  "opendb": {
+    "type": "database",
+    "title": "uni-cms"
+  }
+}

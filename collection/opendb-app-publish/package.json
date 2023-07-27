@@ -1,0 +1,21 @@
+{
+  "name": "@opendb/opendb-app-publish",
+  "version": "0.0.1",
+  "description": "opendb-app-publish 发行页",
+  "keywords": [
+    "发行页",
+    "应用发行",
+    "发行信息"
+  ],
+  "opendb": {
+    "title": "发行页",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

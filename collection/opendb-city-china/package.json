@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-city-china",
+  "version": "0.0.1",
+  "description": "opendb-city-china",
+  "keywords": ["中国城市省市区", "省", "市", "区", "港澳台"],
+  "opendb": {
+    "title": "中国城市",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

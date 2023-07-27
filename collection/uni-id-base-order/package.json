@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-base-order",
+  "version": "0.0.1",
+  "description": "统一订单数据表，完成与支付相关的业务",
+  "keywords": ["base-order", "统一订单","大订单","跨平台", "多应用","支付宝","微信","退款","支付"],
+  "opendb": {
+    "title": "订单中心",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "BaseCloud",
+        "email": "1162762894@qq.com",
+        "homepage": "https://ext.dcloud.net.cn/plugin?id=2668"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-permissions",
+  "version": "0.0.1",
+  "description": "uni-id-permissions",
+  "keywords": ["uni-id", "权限"],
+  "opendb": {
+    "title": "权限",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

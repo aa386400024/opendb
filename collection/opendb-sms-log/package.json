@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-sms-log",
+  "version": "0.0.1",
+  "description": "opendb-sms-log",
+  "keywords": ["短信发送日志"],
+  "opendb": {
+    "title": "短信发送日志",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

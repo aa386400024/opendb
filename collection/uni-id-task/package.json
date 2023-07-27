@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-task",
+  "version": "0.0.1",
+  "description": "uni-id-task",
+  "keywords": ["任务", "task"],
+  "opendb": {
+    "title": "用户任务",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

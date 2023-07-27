@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-search-hot",
+  "version": "0.0.1",
+  "description": "opendb-search-hot",
+  "keywords": ["热搜"],
+  "opendb": {
+    "title": "热搜",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

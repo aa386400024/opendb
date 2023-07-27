@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-roles",
+  "version": "0.0.1",
+  "description": "uni-id-users",
+  "keywords": ["uni-id", "角色"],
+  "opendb": {
+    "title": "角色",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

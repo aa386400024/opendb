@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-verify-codes",
+  "version": "0.0.1",
+  "description": "opendb-verify-codes 验证码",
+  "keywords": ["验证码"],
+  "opendb": {
+    "title": "验证码",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

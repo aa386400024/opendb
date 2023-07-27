@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-tempdata",
+  "version": "0.0.1",
+  "description": "一般用于存储临时令牌，如：uni-push的token，微信的access_token等",
+  "keywords": ["access_token","uni-push"],
+  "opendb": {
+    "title": "临时数据记录表",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud_JSON",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

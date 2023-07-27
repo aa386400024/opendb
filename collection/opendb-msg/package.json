@@ -1,0 +1,15 @@
+{
+	"name": "@opendb/opendb-msg",
+	"version": "0.0.1",
+	"description": "聊天消息（已过期，新表：uni-im-msg）",
+	"keywords": ["opendb-msg"],
+	"opendb": {
+		"title": "聊天消息（已过期，新表：uni-im-msg）",
+		"type": "collection",
+		"contributors": [{
+			"name": "DCloud_linju",
+			"email": "",
+			"homepage": "https://gitee.com/dcloud/opendb"
+		}]
+	}
+}

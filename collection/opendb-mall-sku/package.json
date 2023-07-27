@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-mall-sku",
+  "version": "0.0.1",
+  "description": "opendb-mall-sku",
+  "keywords": ["电商系统", "SKU"],
+  "opendb": {
+    "title": "SKU",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

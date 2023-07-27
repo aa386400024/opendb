@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-push-log",
+  "version": "0.0.1",
+  "description": "推送日志",
+  "keywords": ["推送日志"],
+  "opendb": {
+    "title": "推送日志",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud_JSON",
+        "email": "",
+        "homepage": ""
+      }
+    ]
+  }
+}

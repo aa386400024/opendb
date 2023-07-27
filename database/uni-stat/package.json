@@ -1,0 +1,10 @@
+{
+  "name": "@opendb/uni-stat",
+  "version": "0.0.1",
+  "description": "uni统计",
+  "keywords": ["uni-stat", "stat", "statistics", "uni统计", "统计"],
+  "opendb": {
+    "type": "database",
+    "title": "uni统计"
+  }
+}

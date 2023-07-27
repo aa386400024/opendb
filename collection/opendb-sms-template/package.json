@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-sms-template",
+  "version": "0.0.1",
+  "description": "opendb-sms-template",
+  "keywords": ["短信模板"],
+  "opendb": {
+    "title": "短信模板",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

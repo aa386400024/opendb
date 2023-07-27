@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-notification-config",
+  "version": "0.0.1",
+  "description": "uni-notification-config",
+  "keywords": ["统一消息通知配置"],
+  "opendb": {
+    "title": "统一消息通知配置",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud_JSON",
+        "email": "",
+        "homepage": ""
+      }
+    ]
+  }
+}

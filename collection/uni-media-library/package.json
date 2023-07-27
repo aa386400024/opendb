@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-media-library",
+  "version": "0.0.1",
+  "description": "uni-media-library",
+  "keywords": ["uni-media-library","媒体库"],
+  "opendb": {
+    "title": "媒体库记录",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

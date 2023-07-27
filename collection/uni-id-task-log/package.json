@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-task-log",
+  "version": "0.0.1",
+  "description": "uni-id-task-log",
+  "keywords": ["任务日志", "task-log"],
+  "opendb": {
+    "title": "任务日志",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

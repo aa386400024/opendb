@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-log",
+  "version": "0.0.1",
+  "description": "uni-id-log",
+  "keywords": ["登录日志"],
+  "opendb": {
+    "title": "登录日志",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

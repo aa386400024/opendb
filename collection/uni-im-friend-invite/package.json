@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-im-friend-invite",
+  "version": "0.0.1",
+  "description": "uni-im-friend-invite",
+  "keywords": ["uni-im","即时通讯"],
+  "opendb": {
+    "title": "uni-im邀请用户成为好友",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud_JSON",
+        "email": "",
+        "homepage": ""
+      }
+    ]
+  }
+}

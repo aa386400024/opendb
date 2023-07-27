@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-users",
+  "version": "1.0.3",
+  "description": "uni-id-users",
+  "keywords": ["uni-id", "用户管理", "登录", "注册"],
+  "opendb": {
+    "title": "用户",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

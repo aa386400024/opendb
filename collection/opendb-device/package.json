@@ -1,0 +1,19 @@
+{
+    "name":"@opendb/opendb-device",
+    "version":"0.0.1",
+    "description":"opendb-device",
+    "keywords":[
+        "设备信息表"
+    ],
+    "opendb":{
+        "title":"设备信息表",
+        "type":"collection",
+        "contributors":[
+            {
+                "name":"DCloud",
+                "email":"",
+                "homepage":"https://gitee.com/dcloud/opendb"
+            }
+        ]
+    }
+}

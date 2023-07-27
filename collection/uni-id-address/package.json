@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-address",
+  "version": "0.0.1",
+  "description": "uni-id-address",
+  "keywords": ["地址管理"],
+  "opendb": {
+    "title": "地址管理",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@opendb/opendb-mall",
+  "version": "0.0.1",
+  "description": "电商系统",
+  "keywords": ["电商系统"],
+  "opendb": {
+    "type": "database",
+    "title": "电商系统"
+  }
+}

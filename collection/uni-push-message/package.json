@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-push-message",
+  "version": "0.0.1",
+  "description": "uni-push-message",
+  "keywords": ["uni-push","即时通讯"],
+  "opendb": {
+    "title": "统一推送消息记录",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud_JSON",
+        "email": "",
+        "homepage": ""
+      }
+    ]
+  }
+}

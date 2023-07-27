@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-notification-read-log",
+  "version": "0.0.1",
+  "description": "uni-notification-read-log",
+  "keywords": ["统一公告消息读取记录"],
+  "opendb": {
+    "title": "统一公告消息读取记录",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud_JSON",
+        "email": "",
+        "homepage": ""
+      }
+    ]
+  }
+}

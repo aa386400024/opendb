@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-news-favorite",
+  "version": "0.0.1",
+  "description": "opendb-news-favorite",
+  "keywords": ["收藏文章", "favorite"],
+  "opendb": {
+    "title": "收藏文章",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-cms-unlock-record",
+  "version": "0.0.1",
+  "description": "uni-cms-unlock-record",
+  "keywords": ["解锁记录", "内容解锁表", "uni-CMS", "CMS"],
+  "opendb": {
+    "title": "CMS内容解锁记录表",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

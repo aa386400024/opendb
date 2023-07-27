@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-banner",
+  "version": "0.0.1",
+  "description": "opendb-banner",
+  "keywords": ["banner"],
+  "opendb": {
+    "title": "Banner",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-poi",
+  "version": "0.0.1",
+  "description": "opendb-poi",
+  "keywords": ["地图poi"],
+  "opendb": {
+    "title": "地图poi",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-notification-center",
+  "version": "0.0.1",
+  "description": "uni-notification-center",
+  "keywords": ["消息中心"],
+  "opendb": {
+    "title": "统一消息中心",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud_JSON",
+        "email": "",
+        "homepage": ""
+      }
+    ]
+  }
+}

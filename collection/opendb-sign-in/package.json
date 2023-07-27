@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-sign-in",
+  "version": "0.0.1",
+  "description": "opendb-sign-in",
+  "keywords": ["签到"],
+  "opendb": {
+    "title": "签到",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

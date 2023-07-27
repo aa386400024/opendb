@@ -1,0 +1,10 @@
+{
+  "name": "@opendb/uni-id",
+  "version": "0.0.1",
+  "description": "uni-id",
+  "keywords": ["uni-id", "id"],
+  "opendb": {
+    "type": "database",
+    "title": "uni-id"
+  }
+}

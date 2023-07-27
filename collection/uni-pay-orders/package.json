@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-pay-orders",
+  "version": "0.0.1",
+  "description": "uni-pay-orders",
+  "keywords": ["统一支付订单表", "uni-pay"],
+  "opendb": {
+    "title": "统一支付订单表",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

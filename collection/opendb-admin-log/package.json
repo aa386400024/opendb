@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-admin-log",
+  "version": "0.0.1",
+  "description": "通用系统日志",
+  "keywords": ["日志"],
+  "opendb": {
+    "title": "系统日志",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "CHB",
+        "email": "",
+        "homepage": ""
+      }
+    ]
+  }
+}

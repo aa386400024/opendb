@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-contacts",
+  "version": "0.0.1",
+  "description": "opendb-contacts",
+  "keywords": ["opendb-contacts"],
+  "opendb": {
+    "title": "通讯录",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud_linju",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-mall-goods",
+  "version": "0.0.1",
+  "description": "opendb-mall-goods",
+  "keywords": ["电商系统", "商品表"],
+  "opendb": {
+    "title": "商品",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

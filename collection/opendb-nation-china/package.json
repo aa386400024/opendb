@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-nation-china",
+  "version": "0.0.1",
+  "description": "opendb-nation-china",
+  "keywords": ["中国民族", "民族"],
+  "opendb": {
+    "title": "中国民族",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-department",
+  "version": "0.1.0",
+  "description": "部门表",
+  "keywords": ["部门", "组织机构"],
+  "opendb": {
+    "title": "部门表",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "service@dcloud.io",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

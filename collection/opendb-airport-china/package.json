@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-airport-china",
+  "version": "0.0.1",
+  "description": "opendb-airport-china",
+  "keywords": ["中国机场", "机场"],
+  "opendb": {
+    "title": "中国机场",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

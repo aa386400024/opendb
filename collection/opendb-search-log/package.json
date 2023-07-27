@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/opendb-search-log",
+  "version": "0.0.1",
+  "description": "opendb-search-log",
+  "keywords": ["搜索记录"],
+  "opendb": {
+    "title": "搜索记录",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}

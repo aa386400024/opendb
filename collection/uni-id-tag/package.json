@@ -1,0 +1,17 @@
+{
+  "name": "@opendb/uni-id-tag",
+  "version": "0.0.1",
+  "description": "uni-id-tag",
+  "keywords": ["标签列表"],
+  "opendb": {
+    "title": "标签列表",
+    "type": "collection",
+    "contributors": [
+      {
+        "name": "DCloud",
+        "email": "",
+        "homepage": "https://gitee.com/dcloud/opendb"
+      }
+    ]
+  }
+}
